@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-07-17T10:13:29.059216Z",
+      "format": null,
+      "last_modified": "2023-07-16T08:06:37.841443Z",
+      "mimetype": null,
+      "name": "\u0e01\u0e32\u0e23\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e14\u0e49\u0e27\u0e22\u0e2a\u0e21\u0e01\u0e32\u0e23\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e2a\u0e49\u0e19.ipynb",
+      "path": "\u0e01\u0e32\u0e23\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e14\u0e49\u0e27\u0e22\u0e2a\u0e21\u0e01\u0e32\u0e23\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e2a\u0e49\u0e19.ipynb",
+      "size": 147194,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-07-17T10:13:29.059216Z",
+      "format": null,
+      "last_modified": "2023-07-17T10:13:29.059216Z",
+      "mimetype": null,
+      "name": "fonts",
+      "path": "fonts",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-07-17T10:13:29.042549Z",
+      "format": null,
+      "last_modified": "2023-07-16T11:05:11.058514Z",
+      "mimetype": "text/x-python",
+      "name": "__init__.py",
+      "path": "__init__.py",
+      "size": 152,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-07-17T10:13:29.059216Z",
+      "format": null,
+      "last_modified": "2023-07-17T07:56:29.798703Z",
+      "mimetype": "text/x-python",
+      "name": "labutils.py",
+      "path": "labutils.py",
+      "size": 388,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2023-07-17T10:13:29.059216Z",
+  "format": "json",
+  "last_modified": "2023-07-17T10:13:29.059216Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
