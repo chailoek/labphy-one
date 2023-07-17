@@ -2,31 +2,19 @@
   "content": [
     {
       "content": null,
-      "created": "2023-07-17T10:13:29.059216Z",
+      "created": "2023-07-17T11:10:11.252686Z",
       "format": null,
-      "last_modified": "2023-07-16T08:06:37.841443Z",
+      "last_modified": "2023-07-17T11:08:59.091543Z",
       "mimetype": null,
       "name": "\u0e01\u0e32\u0e23\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e14\u0e49\u0e27\u0e22\u0e2a\u0e21\u0e01\u0e32\u0e23\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e2a\u0e49\u0e19.ipynb",
       "path": "\u0e01\u0e32\u0e23\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e14\u0e49\u0e27\u0e22\u0e2a\u0e21\u0e01\u0e32\u0e23\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e2a\u0e49\u0e19.ipynb",
-      "size": 147194,
+      "size": 146923,
       "type": "notebook",
       "writable": true
     },
     {
       "content": null,
-      "created": "2023-07-17T10:13:29.059216Z",
-      "format": null,
-      "last_modified": "2023-07-17T10:13:29.059216Z",
-      "mimetype": null,
-      "name": "fonts",
-      "path": "fonts",
-      "size": null,
-      "type": "directory",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2023-07-17T10:13:29.042549Z",
+      "created": "2023-07-17T11:10:48.029936Z",
       "format": null,
       "last_modified": "2023-07-16T11:05:11.058514Z",
       "mimetype": "text/x-python",
@@ -49,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2023-07-17T10:13:29.059216Z",
+  "created": "2023-07-17T11:10:48.029936Z",
   "format": "json",
-  "last_modified": "2023-07-17T10:13:29.059216Z",
+  "last_modified": "2023-07-17T11:10:48.029936Z",
   "mimetype": null,
   "name": "",
   "path": "",
