@@ -4,7 +4,7 @@
       "appName": "My JupyterLite App",
       "litePluginSettings": {
         "@jupyterlite/pyodide-kernel-extension:kernel": {
-          "pyodideUrl": "../pyodide/pyodide.js"
+          "pyodideUrl": "https://chailoek.github.io/pyodide-v0.23.4/pyodide.js"
         }
       }
     }

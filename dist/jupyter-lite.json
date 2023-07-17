@@ -354,7 +354,7 @@
         "pipliteUrls": [
           "./extensions/@jupyterlite/pyodide-kernel-extension/static/pypi/all.json?sha256=55f1d3982adfce14adaebe30c941e4857226d00982e31d3c3a92acf14de17eac"
         ],
-        "pyodideUrl": "../pyodide/pyodide.js"
+        "pyodideUrl": "https://chailoek.github.io/pyodide-v0.23.4/pyodide.js"
       }
     },
     "mathjaxConfig": "TeX-AMS-MML_HTMLorMML-full,Safe",
