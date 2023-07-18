@@ -2,6 +2,7 @@
     "jupyter-lite-schema-version": 0,
     "jupyter-config-data": {      
       "appName": "My JupyterLite App",
+      "disabledExtensions": ["jupyterlab-rise"],
       "litePluginSettings": {
         "@jupyterlite/pyodide-kernel-extension:kernel": {
           "pyodideUrl": "https://chailoek.github.io/pyodide-v0.23.4/pyodide.js"

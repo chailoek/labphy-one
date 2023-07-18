@@ -5,6 +5,9 @@
     "appVersion": "0.1.0",
     "baseUrl": "./",
     "defaultKernelName": "python",
+    "disabledExtensions": [
+      "jupyterlab-rise"
+    ],
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
